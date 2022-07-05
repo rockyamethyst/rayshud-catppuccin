@@ -2,7 +2,7 @@
 ![banner](https://user-images.githubusercontent.com/6818236/124364740-7dea6480-dc11-11eb-88e3-f75e21065dd7.png)
 <p align="center">
   <p align="center">
-    A simplistic yet bold hud for TF2 made to cut out a lot of clutter included that of the stock hud. Comes with a range of various vivid colors associated with both low health as well as ammo to make important information easily accessible and noticeable.
+    A simplistic yet bold hud for TF2 made to cut out a lot of clutter included that of the stock hud. Comes with a range of various vivid colors associated with both low health as well as ammo to make important information easily accessible and noticeable. Now with the <a href="https://github.com/catppuccin/catppuccin">Catppuccin</a> color pallete!
     <br />
     <a href="https://github.com/raysfire/rayshud/archive/master.zip">Download</a>
     ·
