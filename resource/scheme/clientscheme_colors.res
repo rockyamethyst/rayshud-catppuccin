@@ -3,32 +3,32 @@ Scheme
 	//////////////////////// COLORS ///////////////////////////
 	Colors
 	{
-		// HUD COLORS
+		// HUD COLORS - Frappé, will add other palletes if i get the will to do it.
 		//---------------------------------------------
-		"ColorRed"					"255 0 0 255"
-		"ColorYellow"				"255 255 0 255"
-		"ColorGreen"				"48 255 48 255"
-		"ColorCyan"					"72 255 255 255"
-		"ColorCyanShadow"			"72 100 100 255"
-		"ColorBlue"					"0 0 255 255"
-		"ColorPurple"				"128 0 255 255"
-		"ColorMagenta"				"255 0 255 255"
-		"ColorBlack"				"0 0 0 255"
-		"ColorGreyMid"				"128 128 128 255"
-		"ColorWhite"				"255 255 255 255"
-		"DullWhite"					"132 132 132 255"
-		"Grey"						"51 47 46 255"
-		"DarkGrey"					"27 27 27 255"
-		"DarkerGrey"				"22 22 22 255"
-		"TextColor"					"117 107 94 255"
+		"ColorRed"					 "231 130 132 255"
+		"ColorYellow"				"229 200 144 255"
+		"ColorGreen"				 "166 209 137 255"
+		"ColorCyan" 				 "133 193 220 255" // This is Sapphire, since no Cyan color exists in catppuccin
+		"ColorCyanShadow"		"72 100 100 255" // Sapphire but dragged down in google's color picker lmao (https://imgur.com/a/FN8uMEC)
+		"ColorBlue"					"140 170 238 255"
+		"ColorPurple"				"202 158 230 255" // This is Mauve. Catppuccin has no color set for purple.
+		"ColorMagenta"			 "202 158 230 255" // Mauve. Again.
+		"ColorBlack"				 "35 38 52 255" // Crust.
+		"ColorGreyMid"			 "65 69 89 255" // Surface0.
+		"ColorWhite"			   "198 208 245 255" // Text.
+		"DullWhite"					"181 191 226 255" // Subtext1.
+		"Grey"						   "98 104 128 255" // Surface2.
+		"DarkGrey"					 "81 87 109 255" // Surface1.
+		"DarkerGrey"				 "50 53 66 255" // Surface0. But dragged down again and a little to the left. (https://imgur.com/a/jNWH59x)
+		"TextColor"					"198 208 198 255" // Text. Again.
 		//---------------------------------------------
 		// Gameplay
-		"Ammo In Clip"				"48 255 48 255"
-		"Ammo In Reserve"			"72 255 255 255"
-		"Ammo In Clip Low"			"255 42 130 255"
-		"Ammo In Reserve Low"		"255 128 28 255"
-		"Health Normal"				"235 226 202 255"
-		"Health Buff"				"48 255 48 255"
+		"Ammo In Clip"				"166 209 137 255" // Green.
+		"Ammo In Reserve"			"153 209 219 255" // Sky.
+		"Ammo In Clip Low"			"231 130 132 255" // Red. Again.
+		"Ammo In Reserve Low"		"239 159 118 255" // Peach or Maroon? Decided on Peach anyway.
+		"Health Normal"				"242 213 207 255" // Rosewater.
+		"Health Buff"				"244 284 228 255" // Pink.
 		"Health Hurt"				"255 153 0 255"
 		"Heal Numbers"				"48 255 48 255"
 		"Damage Numbers"			"72 255 255 255"
