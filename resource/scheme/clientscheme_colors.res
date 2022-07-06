@@ -29,7 +29,7 @@ Scheme
 		"Ammo In Reserve Low"		"239 159 118 255" // Peach or Maroon? Decided on Peach anyway.
 		"Health Normal"				"242 213 207 255" // Rosewater.
 		"Health Buff"				"244 284 228 255" // Pink.
-		"Health Hurt"				"255 255 255 255" // Red.
+		"Health Hurt"				"231 130 132 255" // Red.
 		"Heal Numbers"				"166 209 137 255" // Green, indecisive if I should switch it to Teal.
 		"Damage Numbers"			"140 170 238 255" // Sky or Blue? Went with Blue.
 		"ItemPanelBG"				"48 52 70 255" // Base or Mantle? Went with Base.
