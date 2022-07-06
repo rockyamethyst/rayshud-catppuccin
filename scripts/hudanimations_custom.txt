@@ -25,8 +25,8 @@ event HudHealthDyingPulse
 	Animate	PlayerStatusHealthBonusImage	Alpha		"255"				Linear 0.0 0.2
 	Animate	PlayerStatusHealthBonusImage	Alpha		"0"					Linear 0.2 0.2
 
-	Animate	PlayerHealthValue			FgColor		"Health Hurt"		Accel 0.0 0.0
-	Animate	TargetHealthValue			FgColor		"Health Hurt"		Accel 0.0 0.0
+	Animate	PlayerHealthValue			FgColor		"231 130 132 255"		Accel 0.0 0.0 // Why did i need to override these for them to work?
+	Animate	TargetHealthValue			FgColor		"231 130 132 255"		Accel 0.0 0.0
 
 	RunEvent HudHealthDyingPulseLoop	0.4
 }

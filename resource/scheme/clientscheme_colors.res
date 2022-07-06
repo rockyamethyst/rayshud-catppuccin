@@ -3,7 +3,7 @@ Scheme
 	//////////////////////// COLORS ///////////////////////////
 	Colors
 	{
-		// HUD COLORS - Frappé, will add other palletes if i get the will to do it.
+		// HUD COLORS - Frappé, will add other palletes if i get the will to do it. I could've done Latte first since this game is pretty light in colors, but i don't feel like burning my eyes yet.
 		//---------------------------------------------
 		"ColorRed"					 "231 130 132 255"
 		"ColorYellow"				"229 200 144 255"
@@ -17,7 +17,7 @@ Scheme
 		"ColorGreyMid"			 "65 69 89 255" // Surface0.
 		"ColorWhite"			   "198 208 245 255" // Text.
 		"DullWhite"					"181 191 226 255" // Subtext1.
-		"Grey"						   "35 38 52 255" // Surface2. (crusted for testing)
+		"Grey"						   "48 52 70 255" // Base. (It was Surface2 before, but i put in Crust for testing. Decided on Base. - why does it use grey for the menus????)
 		"DarkGrey"					 "35 38 52 255" // Crust. Menus looked weird with Surface1.
 		"DarkerGrey"				 "50 53 66 255" // Surface0. But dragged down again and a little to the left. (https://imgur.com/a/jNWH59x)
 		"TextColor"					"198 208 198 255" // Text. Again.
@@ -29,7 +29,7 @@ Scheme
 		"Ammo In Reserve Low"		"239 159 118 255" // Peach or Maroon? Decided on Peach anyway.
 		"Health Normal"				"242 213 207 255" // Rosewater.
 		"Health Buff"				"244 284 228 255" // Pink.
-		"Health Hurt"				"231 130 132 255" // Red.
+		"Health Hurt"				"255 255 255 255" // Red.
 		"Heal Numbers"				"166 209 137 255" // Green, indecisive if I should switch it to Teal.
 		"Damage Numbers"			"140 170 238 255" // Sky or Blue? Went with Blue.
 		"ItemPanelBG"				"48 52 70 255" // Base or Mantle? Went with Base.
